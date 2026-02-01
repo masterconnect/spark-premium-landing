@@ -1,5 +1,3 @@
-import SparkLogo from "./SparkLogo";
-
 const HeroSection = () => {
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center px-6 overflow-hidden">
@@ -21,8 +19,11 @@ const HeroSection = () => {
 
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto">
-        <div className="mb-8 animate-float">
-          <SparkLogo />
+        {/* For Sale Badge */}
+        <div className="mb-8">
+          <span className="inline-block px-6 py-2 border border-primary/50 text-primary text-sm font-medium tracking-[0.3em] uppercase rounded-sm">
+            Premium Domain For Sale
+          </span>
         </div>
 
         {/* Domain name */}
@@ -33,13 +34,13 @@ const HeroSection = () => {
 
         {/* Tagline */}
         <p className="text-xl md:text-2xl text-muted-foreground font-light tracking-wide mt-6 mb-2">
-          A Once-in-a-Lifetime Acquisition
+          A Once-in-a-Lifetime Acquisition Opportunity
         </p>
         
         <div className="flex items-center justify-center gap-3 mt-4">
           <div className="h-px w-12 bg-gradient-to-r from-transparent to-primary/50" />
           <span className="text-primary text-sm font-medium tracking-[0.3em] uppercase">
-            Premium Domain
+            Now Available
           </span>
           <div className="h-px w-12 bg-gradient-to-l from-transparent to-primary/50" />
         </div>
