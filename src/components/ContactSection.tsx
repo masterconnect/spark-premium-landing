@@ -1,4 +1,4 @@
-import { Phone, Mail } from "lucide-react";
+import { Mail } from "lucide-react";
 
 const ContactSection = () => {
   return (
@@ -21,32 +21,17 @@ const ContactSection = () => {
               Exclusive Broker
             </p>
             <h3 className="text-2xl md:text-3xl font-display font-semibold text-foreground">
-              Grit Brokerage
+              Hilco Digital
             </h3>
+            <p className="text-muted-foreground mt-2">
+              Andrew Miller
+            </p>
           </div>
 
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12">
-            {/* Phone */}
-            <a
-              href="tel:+19043167232"
-              className="group flex items-center gap-4 p-5 rounded-sm bg-background/50 border border-border/50 transition-all duration-300 hover:border-primary/50 hover:bg-background w-full md:w-auto"
-            >
-              <div className="w-12 h-12 rounded-sm bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
-                <Phone className="w-5 h-5 text-primary" />
-              </div>
-              <div className="text-left">
-                <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">
-                  Call Direct
-                </p>
-                <p className="text-lg font-semibold text-foreground">
-                  +1 (904) 316-7232
-                </p>
-              </div>
-            </a>
-
             {/* Email */}
             <a
-              href="mailto:brian@gritbrokerage.com"
+              href="mailto:amiller@hilcoglobal.com"
               className="group flex items-center gap-4 p-5 rounded-sm bg-background/50 border border-border/50 transition-all duration-300 hover:border-primary/50 hover:bg-background w-full md:w-auto"
             >
               <div className="w-12 h-12 rounded-sm bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
@@ -57,7 +42,7 @@ const ContactSection = () => {
                   Email
                 </p>
                 <p className="text-lg font-semibold text-foreground">
-                  brian@gritbrokerage.com
+                  amiller@hilcoglobal.com
                 </p>
               </div>
             </a>
