@@ -3,7 +3,7 @@ const values = [
     title: "Top-Tier Versatility",
     description: '"Spark" is a rare "chameleon" brand name that fits perfectly across multiple high-growth industries.',
     points: [
-      { label: "Tech & AI", text: "Ignition of ideas, data processing (Apache Spark), or neural networks." },
+      { label: "Tech & AI", text: "Ignition of ideas, data processing, or neural networks." },
       { label: "Energy", text: "Traditional utilities, EV charging, or renewable energy solutions." },
       { label: "Finance/Fintech", text: 'The "spark" for investment growth or a new trading platform.' },
       { label: "Creative/Education", text: 'Creativity, brainstorming, and "sparking" a love for learning.' },
