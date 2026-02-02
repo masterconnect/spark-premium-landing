@@ -28,22 +28,14 @@ const HeroSection = () => {
 
         {/* Domain name */}
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-display font-bold tracking-tight mb-4">
-          <span className="text-gradient-gold">spark</span>
+          <span className="text-gradient-gold">Spark</span>
           <span className="text-muted-foreground">.com</span>
         </h1>
 
         {/* Tagline */}
-        <p className="text-xl md:text-2xl text-muted-foreground font-light tracking-wide mt-6 mb-2">
+        <p className="text-xl md:text-2xl text-muted-foreground font-light tracking-wide mt-10">
           A Once-in-a-Lifetime Acquisition Opportunity
         </p>
-        
-        <div className="flex items-center justify-center gap-3 mt-4">
-          <div className="h-px w-12 bg-gradient-to-r from-transparent to-primary/50" />
-          <span className="text-primary text-sm font-medium tracking-[0.3em] uppercase">
-            Now Available
-          </span>
-          <div className="h-px w-12 bg-gradient-to-l from-transparent to-primary/50" />
-        </div>
 
         {/* CTA */}
         <div className="mt-16">
