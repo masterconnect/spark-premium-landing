@@ -1,19 +1,19 @@
 const values = [
   {
-    title: "Instant Brand Authority",
-    description: "Spark.com is a single, evocative word that instantly communicates innovation, energy, and ignition—the perfect foundation for a world-class brand. In an era where attention is the scarcest resource, a 5-letter .com that is universally understood and spellable gives your company an unmatched, prestigious digital identity.",
+    title: "Instant Brand Authority & Investor Signal",
+    description: "Spark.com is a single, universally resonant word that instantly conveys innovation, energy, and leadership. Owning this ultra-premium .com sends an unmistakable signal to investors, partners, and markets that your company is the category-defining leader—dramatically enhancing perceived goodwill and intangible asset value in funding rounds or IPOs.",
   },
   {
     title: "Unrivaled Memorability & Marketing Advantage",
-    description: "Short, premium .com domains drive higher direct traffic, better recall, and stronger click-through rates across email, advertising, and word-of-mouth. Spark.com is effortless to say, type, and share—giving your marketing team a permanent competitive edge over longer, forgettable addresses.",
+    description: "Short, premium .com domains drive higher direct traffic, superior recall, and stronger performance across all marketing channels. Spark.com is effortless to say, type, and share—giving your team a permanent, unfair advantage over competitors with longer or less memorable addresses.",
   },
   {
     title: "Defensive Strategic Value",
-    description: "Securing spark.com prevents competitors from ever owning one of the most desirable single-word .com domains remaining. It protects your brand equity and eliminates the risk of confusion or dilution in the market—critical for any company aiming to dominate its category.",
+    description: "Securing spark.com permanently denies this iconic single-word .com to competitors, eliminating risks of brand confusion, traffic diversion, or market dilution. It is a proactive defense of your leadership position in an increasingly competitive landscape.",
   },
   {
-    title: "Proven Investment Appreciation",
-    description: "Ultra-premium single-word .com domains have consistently appreciated in value. Spark.com is not just a domain—it's a rare, appreciating digital asset that strengthens your balance sheet and long-term enterprise value.",
+    title: "Proven Long-Term Investment Appreciation",
+    description: "Ultra-premium single-word .com domains have consistently outperformed as appreciating assets. Beyond balance-sheet strength, spark.com elevates enterprise value by reinforcing investor confidence in your dominance—directly boosting goodwill valuation during financing, M&A, or public listing.",
   },
 ];
 
